@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "multi-image-upload"
+    }
+  },
+  "defaultProject": "multi-image-upload",
+  "cli": {
+    "analytics": "7f3572d9-ebec-4de7-9f3b-dfec685aaf46"
+  }
 }
